@@ -12,6 +12,8 @@ namespace NetFWWebApplication.Account
         protected void Page_Load(object sender, EventArgs e)
         {
             lblUserName2.Text = "TEST";
+            txtTitle.Text = "TESt";
+
         }
     }
 }
